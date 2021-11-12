@@ -1,4 +1,4 @@
-import pyperclip as clipboard
+#import pyperclip as clipboard
 import function_for_atvi as ffa
 thickness_body = float(input("Введи толщину стенки корпуса: \n"))
 diameter_body = float(input("Введи диаметр корпуса: \n"))
